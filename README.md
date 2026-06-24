@@ -1,8 +1,8 @@
-# 👨‍💼 Employee Management System
+# 👨‍💼 Employee Registration System
 
 ## Overview
 
-The **Employee Management System** is a desktop application developed in **C# using Windows Forms and Entity Framework Core**. The system is designed to manage employee records efficiently by providing functionalities such as adding, updating, deleting, and viewing employee information stored in a SQL Server database.
+The **Employee Registration System** is a desktop application developed in **C# using Windows Forms and Entity Framework Core**. The system is designed to manage employee records efficiently by providing functionalities such as adding, updating, deleting, and viewing employee information stored in a SQL Server database.
 
 This project demonstrates the implementation of **CRUD (Create, Read, Update, Delete)** operations along with database connectivity using **Entity Framework Core (Code First Approach)**. It follows Object-Oriented Programming (OOP) principles and provides a user-friendly interface for managing employee data.
 
